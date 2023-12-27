@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://vmozsdgz:8FCkIXtOjoLZVzo_PJjwa9HYy_nH816J@peanut.db.elephantsql.com/vmozsdgz",
+            "name": "join_demo",
+            "group": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "test_db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        }
+    ]
+}
